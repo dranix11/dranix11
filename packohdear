@@ -1,0 +1,5 @@
+hargapack = 10000 -- HARGA PACK
+namapack = "fishin_pack" -- NAMA PACK
+MinItemPack = 2 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
+maxbuy = 5 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA 
+iditempack = {2912,3044,3002,2914,5524,5522,3004}

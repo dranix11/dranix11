@@ -4,3 +4,4 @@ namapack = "fishin_pack"         -- Pack Name
 MinItemPack = 2                 -- Bot will dropping the pack when he have X MinItemPack or more
 iditempack = {2912,3044,3002,2914,5524,5522,3004}              -- Put all your id item pack in here
 maxbuy = 5                      -- Bot will try to buying X times if have more gems
+
